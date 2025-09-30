@@ -1,2 +1,2 @@
-# FIT-3179-HM2
-Week 9 Homework: Create a Map with Vega-Lite
+# FIT-3179-HW9
+Week 9 Homework: Creating a Map with Vega-Lite
